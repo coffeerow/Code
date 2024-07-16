@@ -7,15 +7,13 @@
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  padding: 0;
+  padding: 13;
   color: #333;
 }
 
 h1,
 h2,
-h3,
-h4,
-h5 {
+h3 {
   margin-bottom: 1rem;
 }
 
@@ -23,34 +21,30 @@ h1 {
   font-size: 5.4rem;
   color: #020201;
   margin-bottom: 5rem;
+  text-align: center;
 }
 h2 {
-  font-size: 4.2rem;
-  color: #FDD776;
-  margin-bottom: 5rem;
+  font-size: 5.4rem;
+  color: #0e0d0a;
+  margin-bottom: 3rem;
+  text-align: left;
+  
 }
 
 
 h1 > span {
   font-size: 3.2rem;
-  font-weight: 500;
+  color:#FDD776;
+  font-weight: 600;
 }
 
-h2 {
+h2 > span {
   font-size: 4.2rem;
   margin-bottom: 4rem;
-  font-weight: 700;
+  font-weight: 500;
 }
 
-h3 {
-  font-size: 2.8rem;
-  font-weight: 500;
-}
-h4 {
-  font-size: 2.8rem;
-  font-weight: 500;
-}
-h5 {
+h3 > span {
   font-size: 2.8rem;
   font-weight: 500;
 }
@@ -61,7 +55,7 @@ h5 {
   width: 100vw;
   height: 100vh;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   max-width: 80rem;
   margin: 0 auto;
@@ -78,7 +72,7 @@ h5 {
 }
 
 .flex-center {
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
 
@@ -86,8 +80,8 @@ h5 {
   justify-content: center;
 }
 
-.text-center {
-  text-align: center;
+.text-left {
+  text-align: left;
 }
 
 .hidden {
@@ -100,16 +94,16 @@ h5 {
   padding: 1rem 0;
   width: 20rem;
   text-align: center;
-  border: 0.1rem solid #FFE39A;
+  border: 0.1rem solid #ee940d;
   margin-bottom: 1rem;
   text-decoration: none;
-  color: #FDD776;
+  color: #fdfbf7;
   background-color: black;
 }
 
 .btn:hover {
   cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(16, 22, 24, 0.5);
   transform: translateY(-0.1rem);
   transition: transform 150ms;
 }
@@ -125,7 +119,7 @@ form {
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
 }
 
 input {
@@ -133,10 +127,10 @@ input {
   width: 20rem;
   padding: 1.5rem;
   font-size: 1.8rem;
-  border: none;
-  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  border: black;
+  box-shadow: 0 0.1rem 1.4rem 0 rgb(248, 245, 245);
 }
 
 input::placeholder {
-  color: #f2f1f1;
+  color: #0b0606;
 }

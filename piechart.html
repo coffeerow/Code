@@ -1,0 +1,19 @@
+<script>
+    const ctx = document.getElementById('myPieChart').getContext('2d');
+    const data = {
+        labels: ['Rice', 'Pasta', 'Beans', 'Plantain', 'Potato', 'Yam'],
+        datasets: [{
+            data: [25, 25, 12.5, 12.5, 12.5, 12.5],
+            backgroundColor: ['#FFD700', '#87CEEB', '#FFC0CB', '#800080', '#008000', '#F5DEB3'],
+        }],
+    };
+    const config = {
+        type: 'pie',
+        data: data,
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+        },
+    };
+    new Chart(ctx, config);
+</script>
