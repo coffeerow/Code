@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .pie {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: conic-gradient(var(--c, transparent) 0% var(--p, 0%),
+                    var(--c, transparent) var(--p, 0%) 100%);
+            border: var(--b, 10px) solid #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="pie" style="--p: 60; --b: 10px; --c: purple;">60%</div>
+</body>
+<script src="/piechart.html"></script>
+</html>
