@@ -5,24 +5,24 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": " What is the city's most famous festival?",
-        "correct_answer": "Cinco de Mayo",
+        "question": " What is the city's most famous festival in japan?",
+        "correct_answer": "Setsuban",
         "incorrect_answers": [
-          "Day of the Dead",
-          "christmas",
-          "Carnival"
+          "Tenjin Matsuri",
+          "Gion Matsuri",
+          "Christmas"
         ]
       },
       {
         "type": "multiple",
         "difficulty": "easy",
         "category": "General Knowledge",
-        "question": "What are they well known for food in Cancun?",
-        "correct_answer": "John F. Kennedy",
+        "question": "What are they well known for food in japan?",
+        "correct_answer": "Tsukudani",
         "incorrect_answers": [
-          "Theodore Roosevelt",
-          "Abraham Lincoln",
-          "Thomas Jefferson"
+          "Nigiri-zushi",
+          "Soba",
+          "Pasta"
         ]
       }
     ]
