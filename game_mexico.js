@@ -15,7 +15,7 @@ let availableQuesions = [];
 let questions = [];
 
 fetch(
-     'http://127.0.0.1:5500/question_india.json','http://127.0.0.1:5500/question_mexico.json','http://127.0.0.1:5500/question_japan.json'
+     'http://127.0.0.1:5500/question_mexico.json'
 )
     .then((res) => {
         return res.json();
@@ -49,7 +49,7 @@ fetch(
 
 //CONSTANTS
 const CORRECT_BONUS = 20;
-const MAX_QUESTIONS = 4;
+const MAX_QUESTIONS = 2;
 const INCORRECT = 0; 
 
 startGame = () => {
