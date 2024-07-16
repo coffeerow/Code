@@ -1,0 +1,30 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": " What is the city's most famous festival?",
+        "correct_answer": "Cinco de Mayo",
+        "incorrect_answers": [
+          "Day of the Dead",
+          "christmas",
+          "Carnival"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What are they well known for food in Cancun?",
+        "correct_answer": "John F. Kennedy",
+        "incorrect_answers": [
+          "Theodore Roosevelt",
+          "Abraham Lincoln",
+          "Thomas Jefferson"
+        ]
+      }
+    ]
+  }
+  

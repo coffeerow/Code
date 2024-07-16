@@ -1,0 +1,19 @@
+#highScoresList {
+  list-style: none;
+  padding-left: 15;
+  margin-bottom: 4rem;
+}
+
+.high-score {
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.Begin-Game{
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.status-update:hover {
+  transform: scale(1.025);
+}

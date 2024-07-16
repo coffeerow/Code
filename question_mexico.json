@@ -1,0 +1,126 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": " What is the city's most famous festival?",
+        "correct_answer": "Cinco de Mayo",
+        "incorrect_answers": [
+          "Day of the Dead",
+          "christmas",
+          "Carnival"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What are they well known for food in Cancun?",
+        "correct_answer": "John F. Kennedy",
+        "incorrect_answers": [
+          "Theodore Roosevelt",
+          "Abraham Lincoln",
+          "Thomas Jefferson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the largest organ of the human body?",
+        "correct_answer": "Skin",
+        "incorrect_answers": [
+          "Heart",
+          "large Intestine",
+          "Liver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+          "Aries",
+          "Capricorn",
+          "Sagittarius"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When someone is inexperienced they are said to be what color?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What are Panama hats made out of?",
+        "correct_answer": "Straw",
+        "incorrect_answers": [
+          "Silk",
+          "Hemp",
+          "Flax"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What machine element is located in the center of fidget spinners?",
+        "correct_answer": "Bearings",
+        "incorrect_answers": [
+          "Axles",
+          "Gears",
+          "Belts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "correct_answer": "Swiss Air",
+        "incorrect_answers": [
+          "Air France",
+          "British Airways",
+          "TWA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many colors are there in a rainbow?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+          "The Dream Team",
+          "The Bushwhackers",
+          "The British Bulldogs"
+        ]
+      }
+    ]
+  }
+  
